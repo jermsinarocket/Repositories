@@ -2,5 +2,6 @@
 
 Modules | Assignments
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+CZ2002 Object Oriented Programming | [SCRAME - Assignment 1](https://github.com/jermsinarocket/OODP_Assignment)
+CSED353 Computer Network | [Internet Text Chatting Program - Assignment 2](https://github.com/jermsinarocket/ComputerNetwork_Assignment2)
+CSED451 Computer Graphics | [2D Volleyball Game - Assignment 1](https://github.com/jermsinarocket/ComputerGraphics_Assignment1)
