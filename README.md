@@ -1,4 +1,4 @@
-# Repositories 
+# Repositories for Assignments
 
 ### Nanyang Technological University _(Home University)_
 Modules | Assignments
