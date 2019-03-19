@@ -16,6 +16,8 @@ CZ2002 Object Oriented Programming | [SCRAME - Assignment](https://github.com/je
     <td>CSED353 Computer Network </td>
     <td>
       <a href="https://github.com/jermsinarocket/ComputerNetwork_Assignment2">Internet Text Chatting Program - Assingment 2</a>
+      <br/>
+      <a href="https://github.com/jermsinarocket/ComputerNetwork_Assignment3">(WIP) Assingment 3</a>
     </td>
   </tr>
   <tr>
@@ -23,7 +25,7 @@ CZ2002 Object Oriented Programming | [SCRAME - Assignment](https://github.com/je
     <td>
       <a href="https://github.com/jermsinarocket/ComputerGraphics_Assignment1">2D Drawing - Assignment 1</a>
       <br/>
-       <a href="https://github.com/jermsinarocket/ComputerGraphics_Assignment2">2D Drawing (Hierarchical Model) - Assignment 2</a>
+      <a href="https://github.com/jermsinarocket/ComputerGraphics_Assignment2">2D Drawing (Hierarchical Model) - Assignment 2</a>
     </td>  
   </tr>
 </table>
