@@ -13,7 +13,7 @@
     </td>
   </tr>
   <tr>
-    <td>CZ22002 Object Oriented Programming & Design</td>
+    <td>CZ2002 Object Oriented Programming & Design</td>
     <td>
       <a href="https://github.com/jermsinarocket/OODP_Assignment">SCRAME - Assignment</a>
     </td>  
