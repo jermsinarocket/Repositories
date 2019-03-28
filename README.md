@@ -36,7 +36,7 @@
     </td>
   </tr>
   <tr>
-    <td>CSED353 Computer Network </td>
+    <td>CSED451 Computer Graphics </td>
     <td>
       <a href="https://github.com/jermsinarocket/ComputerGraphics_Assignment1">2D Drawing - Assignment 1</a>
       <br/>
