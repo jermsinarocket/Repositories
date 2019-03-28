@@ -1,9 +1,24 @@
 # Repositories for Assignments
 
 ### Nanyang Technological University _(Home University)_
-Modules | Assignments
------------- | -------------
-CZ2002 Object Oriented Programming | [SCRAME - Assignment](https://github.com/jermsinarocket/OODP_Assignment)
+<table>
+  <tr>
+     <th>Modules</th>
+     <th>Assignments</th>
+  </tr>
+  <tr>
+    <td>CZ1007 Data Structures </td>
+    <td>
+      <a href="https://github.com/jermsinarocket/DataStructures">Labs</a>
+    </td>
+  </tr>
+  <tr>
+    <td>CZ22002 Object Oriented Programming & Design</td>
+    <td>
+      <a href="https://github.com/jermsinarocket/OODP_Assignment">SCRAME - Assignment</a>
+    </td>  
+  </tr>
+</table>
 
 ### Pohang University of Science and Technology _(Exchange University)_
 
