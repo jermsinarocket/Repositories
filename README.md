@@ -32,7 +32,7 @@
     <td>
       <a href="https://github.com/jermsinarocket/ComputerNetwork_Assignment2">Internet Text Chatting Program - Assingment 2</a>
       <br/>
-      <a href="https://github.com/jermsinarocket/ComputerNetwork_Assignment3">(WIP) Assingment 3</a>
+      <a href="https://github.com/jermsinarocket/ComputerNetwork_Assignment3">Internet Voice & Text Chatting Program - Assingment 3</a>
     </td>
   </tr>
   <tr>
