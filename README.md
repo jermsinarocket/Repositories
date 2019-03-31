@@ -30,9 +30,9 @@
   <tr>
     <td>CSED353 Computer Network </td>
     <td>
-      <a href="https://github.com/jermsinarocket/ComputerNetwork_Assignment2">Internet Text Chatting Program - Assingment 2</a>
+      <a href="https://github.com/jermsinarocket/ComputerNetwork_Assignment2">Internet Text Chatting Program - Assignment 2</a>
       <br/>
-      <a href="https://github.com/jermsinarocket/ComputerNetwork_Assignment3">Internet Voice & Text Chatting Program - Assingment 3</a>
+      <a href="https://github.com/jermsinarocket/ComputerNetwork_Assignment3">Internet Voice & Text Chatting Program - Assignment 3</a>
     </td>
   </tr>
   <tr>
