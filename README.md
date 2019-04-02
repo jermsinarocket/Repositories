@@ -1,6 +1,3 @@
-# Repositories for Assignments
-Repositories for all the Programming Assignments that I have done during my Undergraduate Studies
-
 ### Nanyang Technological University _(Home University)_
 <table>
   <tr>
