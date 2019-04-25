@@ -50,7 +50,7 @@
     </td>  
   </tr>
     <tr>
-    <td>MECH409K Madchine Learning for M.E. </td>
+    <td>MECH409K Machine Learning for M.E. </td>
     <td>
       <a href="https://github.com/jermsinarocket/MachineLearning_HW">Homework</a>
     </td>  
