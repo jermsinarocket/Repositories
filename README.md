@@ -49,4 +49,10 @@
       <a href="https://github.com/jermsinarocket/ComputerGraphics_Assignment3">3D Drawing - Assignment 3 (WIP)</a>
     </td>  
   </tr>
+    <tr>
+    <td>MECH409K Madchine Learning for M.E. </td>
+    <td>
+      <a href="https://github.com/jermsinarocket/MachineLearning_HW">Homework</a>
+    </td>  
+  </tr>
 </table>
