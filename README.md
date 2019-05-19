@@ -36,7 +36,7 @@
       <br/>
       <a href="https://github.com/jermsinarocket/ComputerNetwork_Assignment5">Internet Traffic Analysis using Wireshark - Assignment 5</a>
       <br/>
-      <a href="https://github.com/jermsinarocket/ComputerNetwork_Assignment6">Programming using libpcap</a>
+      <a href="https://github.com/jermsinarocket/ComputerNetwork_Assignment6">Programming using libpcap - Assignment 6</a>
     </td>
   </tr>
   <tr>
