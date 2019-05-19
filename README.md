@@ -45,8 +45,6 @@
       <a href="https://github.com/jermsinarocket/ComputerGraphics_Assignment1">2D Drawing - Assignment 1</a>
       <br/>
       <a href="https://github.com/jermsinarocket/ComputerGraphics_Assignment2">2D Drawing (Hierarchical Model) - Assignment 2</a>
-      <br/>
-      <a href="https://github.com/jermsinarocket/ComputerGraphics_Assignment3">3D Drawing - Assignment 3 (WIP)</a>
     </td>  
   </tr>
     <tr>
