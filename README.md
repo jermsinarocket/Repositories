@@ -58,13 +58,13 @@
 ### Courses and Certification 
 <table>
   <tr>
-     <th>Acadamy</th>
+     <th>Academy</th>
      <th>Course</th>
   </tr>
   <tr>
-    <td>Hackwagon </td>
+    <td>Hackwagon</td>
     <td>
-      <a href="https://github.com/jermsinarocket/ComputerNetwork_Assignment2">Data Science 102</a>
+      <a href="">Data Science 102</a>
     </td>
   </tr>
 </table>
