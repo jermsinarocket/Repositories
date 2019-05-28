@@ -64,7 +64,7 @@
   <tr>
     <td>Hackwagon</td>
     <td>
-      <a href="">Data Science 102</a>
+      <a href="https://github.com/jermsinarocket/Repositories">Data Science 102</a>
     </td>
   </tr>
 </table>
