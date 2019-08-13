@@ -11,9 +11,27 @@
     </td>
   </tr>
   <tr>
+    <td>CZ2001 Algorithms</td>
+    <td>
+      <a href="https://github.com/jermsinarocket/">N/A</a>
+    </td>  
+  </tr>
+  <tr>
     <td>CZ2002 Object Oriented Programming & Design</td>
     <td>
       <a href="https://github.com/jermsinarocket/OODP_Assignment">SCRAME - Assignment</a>
+    </td>  
+  </tr>
+  <tr>
+    <td>CZ2006 Software Engineering/td>
+    <td>
+      <a href="https://github.com/jermsinarocket/">N/A</a>
+    </td>  
+  </tr>
+  <tr>
+    <td>CZ2007 Introduction to Databases/td>
+    <td>
+      <a href="https://github.com/jermsinarocket/">N/A</a>
     </td>  
   </tr>
 </table>
