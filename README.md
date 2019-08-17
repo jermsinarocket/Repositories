@@ -13,7 +13,7 @@
   <tr>
     <td>CZ2001 Algorithms</td>
     <td>
-      <a href="https://github.com/jermsinarocket/">N/A</a>
+      <a href="https://github.com/jermsinarocket/Algorithms_Labs">Labs</a>
     </td>  
   </tr>
   <tr>
@@ -23,13 +23,13 @@
     </td>  
   </tr>
   <tr>
-    <td>CZ2006 Software Engineering/td>
+    <td>CZ2006 Software Engineering</td>
     <td>
       <a href="https://github.com/jermsinarocket/">N/A</a>
     </td>  
   </tr>
   <tr>
-    <td>CZ2007 Introduction to Databases/td>
+    <td>CZ2007 Introduction to Databases</td>
     <td>
       <a href="https://github.com/jermsinarocket/">N/A</a>
     </td>  
