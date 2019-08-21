@@ -25,7 +25,7 @@
   <tr>
     <td>CZ2006 Software Engineering</td>
     <td>
-      <a href="https://github.com/jermsinarocket/https://github.com/jermsinarocket/SoftwareEngineering_WeatherMen">WeatherMen - Assignment</a>
+      <a href="https://github.com/jermsinarocket/SoftwareEngineering_WeatherMen">WeatherMen - Assignment</a>
     </td>  
   </tr>
   <tr>
