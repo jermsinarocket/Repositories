@@ -23,17 +23,17 @@
     </td>  
   </tr>
   <tr>
-    <td>CZ2006 Software Engineering</td>
-    <td>
-      <a href="https://github.com/jermsinarocket/SoftwareEngineering_WeatherMen">WeatherMen - Assignment</a>
-    </td>  
-  </tr>
-  <tr>
     <td>CZ2007 Introduction to Databases</td>
     <td>
       <a href="https://github.com/jermsinarocket/">N/A</a>
     </td>  
   </tr>
+  <tr>
+    <td>CZ3003 Software System Analysis & Design</td>
+    <td>
+      <a href="https://github.com/jermsinarocket/SSAD_LearnEz">LearnEz</a>
+    </td>  
+ </tr>
 </table>
 
 ### Pohang University of Science and Technology _(Exchange University)_
