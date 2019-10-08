@@ -25,7 +25,7 @@
   <tr>
     <td>CZ2007 Introduction to Databases</td>
     <td>
-      <a href="https://github.com/jermsinarocket/">Labs</a>
+      <a href="https://github.com/jermsinarocket/DatabaseSystems_Labs">Labs</a>
     </td>  
   </tr>
   <tr>
