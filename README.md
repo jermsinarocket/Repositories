@@ -23,6 +23,12 @@
     </td>  
   </tr>
   <tr>
+    <td>CZ2006 Software Engineering/td>
+    <td>
+      <a href="">SCRAME - Assignment</a>
+    </td>  
+  </tr>
+  <tr>
     <td>CZ2007 Introduction to Databases</td>
     <td>
       <a href="https://github.com/jermsinarocket/DatabaseSystems_Labs">Labs</a>
@@ -36,6 +42,24 @@
  </tr>
  <tr>
     <td>CZ3004 Multidisciplinary Design Project</td>
+    <td>
+      <a href=""></a>
+    </td>  
+ </tr>
+ <tr>
+    <td>CZ4031 Database System Principles</td>
+    <td>
+      <a href=""></a>
+    </td>  
+ </tr>
+ <tr>
+    <td>CZ4032 Data Analytics & Mining</td>
+    <td>
+      <a href=""></a>
+    </td>  
+ </tr>
+ <tr>
+    <td>CZ4035 Naturual Language Processing</td>
     <td>
       <a href=""></a>
     </td>  
