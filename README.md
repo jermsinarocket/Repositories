@@ -23,9 +23,9 @@
     </td>  
   </tr>
   <tr>
-    <td>CZ2006 Software Engineering/td>
+    <td>CZ2006 Software Engineering</td>
     <td>
-      <a href="">SCRAME - Assignment</a>
+      <a href=""></a>
     </td>  
   </tr>
   <tr>
