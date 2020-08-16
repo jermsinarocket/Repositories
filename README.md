@@ -34,6 +34,12 @@
       <a href="https://github.com/jermsinarocket/SSAD_LearnEz">LearnEz</a>
     </td>  
  </tr>
+ <tr>
+    <td>CZ3004 Multidisciplinary Design Project</td>
+    <td>
+      <a href=""></a>
+    </td>  
+ </tr>
 </table>
 
 ### Pohang University of Science and Technology _(Exchange University)_
