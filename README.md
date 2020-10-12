@@ -25,7 +25,7 @@
   <tr>
     <td>CZ2006 Software Engineering</td>
     <td>
-      <a href="https://github.com/jermsinarocket/SoftwareEngineering_Project">TBC</a>
+      <a href="https://github.com/jermsinarocket/SoftwareEngineering_Project">Enso</a>
     </td>  
   </tr>
   <tr>
