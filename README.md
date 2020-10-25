@@ -49,7 +49,7 @@
  <tr>
     <td>CZ4031 Database System Principles</td>
     <td>
-      <a href="https://github.com/jermsinarocket/DatabaseSystemPrinciples">B+ Tree</a>
+      <a href="https://github.com/jermsinarocket/DatabaseSystemPrinciples">Assignment 1 - B+ Tree</a>
     </td>  
  </tr>
  <tr>
@@ -61,7 +61,7 @@
  <tr>
     <td>CZ4035 Naturual Language Processing</td>
     <td>
-      <a href="https://github.com/jermsinarocket/NaturalLanguageProcessing_Assignment">Domain Specific Text Data Analysis and Processing</a>
+      <a href="https://github.com/jermsinarocket/NaturalLanguageProcessing_Assignment">Assignment 1 - Domain Specific Text Data Analysis and Processing</a>
     </td>  
  </tr>
 </table>
